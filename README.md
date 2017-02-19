@@ -2,6 +2,9 @@ Scss Special Reset
 ===================
 
 
+## Uyari! (Bilgilendirme)
+tüm classlar maksimum alabileceğini değer 20'dir.Buna Dikkat Ediniz. (isteyen dosyalarından içinden maksimum değeri ayarlayabilir)
+
 ## padding: { value } Kullanımı
 ```
 <div class="pa-10">
