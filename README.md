@@ -1,8 +1,8 @@
 Scss Special Reset
 ===================
 
-The Validator component provides tools to validate values following the
-[JSR-303 Bean Validation specification][1].
+divler için ayarlayabileceğiniz class'lar
 
-Resources
----------
+<div class="p-l-10 p-t-5 p-b-5 p-l-10">
+
+</div>
