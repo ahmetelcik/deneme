@@ -3,7 +3,7 @@ Scss Special Reset
 
 divler için ayarlayabileceğiniz class'lar
 
-### Break down into end to end tests
+### Kullanımı 
 
 Explain what these tests test and why
 
