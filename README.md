@@ -3,9 +3,10 @@ Scss Special Reset
 
 divler için ayarlayabileceğiniz class'lar
 
-## Bilgilendirme,
+## Padding: {value}
 ```
-padding-left kullanımı için (p-l-{değer})
+<div class="pa-10">
+</div>
 ```
 ### Kullanımı 
 ```
