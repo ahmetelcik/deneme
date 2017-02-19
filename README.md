@@ -7,6 +7,6 @@ divler için ayarlayabileceğiniz class'lar
 
 
 ```
-<div class="p-l0 p-t-10 p-b-10 p-r-10">
+<div class="p-l-0 p-t-10 p-b-10 p-r-10">
   lorem
 </div>
