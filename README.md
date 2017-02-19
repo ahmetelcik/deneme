@@ -3,14 +3,9 @@ Scss Special Reset
 
 divler için ayarlayabileceğiniz class'lar
 
+### Break down into end to end tests
 
+Explain what these tests test and why
 
-[** Kullanımı **]
-```sh
-# Production
-https://cdn.rawgit.com/filipelinhares/ress/master/dist/ress.min.css
-
-# Development
-https://rawgit.com/filipelinhares/ress/master/dist/ress.min.css
 ```
-
+Give an example
