@@ -3,7 +3,7 @@ Scss Special Reset
 
 divler için ayarlayabileceğiniz class'lar
 
-## padding: { value } Kullanımı
+## Kullanımı: padding: { value }
 ```
 <div class="pa-10">
   Lorem ipsum dolor sit amet, consectetur adipisicing elit
