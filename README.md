@@ -52,6 +52,13 @@ divler için ayarlayabileceğiniz class'lar
 </div>
 ```
 
+## margin-bottom: { value } Kullanımı
+```
+<div class="m-b-10">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit
+</div>
+```
+
 ## margin-left: { value } Kullanımı
 ```
 <div class="m-l-10">
@@ -66,9 +73,4 @@ divler için ayarlayabileceğiniz class'lar
 </div>
 ```
 
-## margin-bottom: { value } Kullanımı
-```
-<div class="m-b-10">
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit
-</div>
-```
+
