@@ -1,0 +1,6 @@
+/* padding: $value{px} !important */
+@for $i from 0 through 20 {
+  .pa-#{$i} { 
+      padding: 1px * $i !important; 
+      }
+}

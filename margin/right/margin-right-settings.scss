@@ -1,0 +1,4 @@
+/* margin-right: $value{px} !important */
+@for $i from 0 through 20 {
+  .m-r-#{$i} { margin-right: 1px * $i!important; }
+}

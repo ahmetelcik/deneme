@@ -1,0 +1,4 @@
+/* margin: $value{px} !important */
+@for $i from 0 through 20 {
+  .ma-#{$i} { margin: 1px * $i!important; }
+}

@@ -1,0 +1,6 @@
+/* padding-right: $value{px} !important */
+@for $i from 0 through 20 {
+  .p-r-#{$i} { 
+      padding-right: 1px * $i !important; 
+      }
+}

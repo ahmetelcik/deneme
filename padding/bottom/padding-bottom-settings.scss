@@ -1,0 +1,6 @@
+/* padding-bottom: $value{px} !important */
+@for $i from 0 through 20 {
+  .p-b-#{$i} { 
+      padding-bottom: 1px * $i !important; 
+      }
+}

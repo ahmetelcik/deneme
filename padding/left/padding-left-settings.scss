@@ -1,0 +1,6 @@
+/* padding-left: $value{px} !important */
+@for $i from 0 through 20 {
+  .p-l-#{$i} { 
+      padding-left: 1px * $i !important; 
+      }
+}
