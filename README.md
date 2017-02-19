@@ -5,7 +5,7 @@ divler için ayarlayabileceğiniz class'lar
 
 
 
-[**RawGit**](https://rawgit.com)
+[** Kullanımı **]
 ```sh
 # Production
 https://cdn.rawgit.com/filipelinhares/ress/master/dist/ress.min.css
