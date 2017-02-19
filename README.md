@@ -6,7 +6,7 @@ divler için ayarlayabileceğiniz class'lar
 ## Padding: { value } Kullanımı
 ```
 <div class="pa-10">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit
 </div>
 ```
 ### Kullanımı 
