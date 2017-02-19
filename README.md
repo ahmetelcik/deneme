@@ -1,7 +1,6 @@
 Scss Special Reset
 ===================
 
-divler için ayarlayabileceğiniz class'lar
 
 ## padding: { value } Kullanımı
 ```
