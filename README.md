@@ -5,7 +5,8 @@ divler için ayarlayabileceğiniz class'lar
 
 ### Kullanımı 
 
-Explain what these tests test and why
 
 ```
-Give an example
+<div class="p-l0 p-t-10 p-b-10 p-r-10">
+  lorem
+</div>
