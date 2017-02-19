@@ -38,9 +38,37 @@ divler için ayarlayabileceğiniz class'lar
 </div>
 ```
 
-### Kullanımı 
+## margin: { value } Kullanımı
 ```
-<div class="p-l-0 p-t-10 p-b-10 p-r-10">
-  lorem
+<div class="ma-10">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit
+</div>
+```
+
+## margin-top: { value } Kullanımı
+```
+<div class="m-t-10">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit
+</div>
+```
+
+## margin-left: { value } Kullanımı
+```
+<div class="m-l-10">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit
+</div>
+```
+
+## margin-right: { value } Kullanımı
+```
+<div class="m-r-10">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit
+</div>
+```
+
+## margin-bottom: { value } Kullanımı
+```
+<div class="m-b-10">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit
 </div>
 ```
